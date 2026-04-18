@@ -266,7 +266,7 @@ MIT License
 
 ## 👤 Author
 
-**Your Name**
+**Duha Masoodi**
 
 ---
 
